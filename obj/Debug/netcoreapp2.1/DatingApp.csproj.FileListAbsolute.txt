@@ -1,0 +1,14 @@
+D:\Learning\ASP NET\DatingApp\DatingApp\bin\Debug\netcoreapp2.1\DatingApp.deps.json
+D:\Learning\ASP NET\DatingApp\DatingApp\bin\Debug\netcoreapp2.1\DatingApp.runtimeconfig.json
+D:\Learning\ASP NET\DatingApp\DatingApp\bin\Debug\netcoreapp2.1\DatingApp.runtimeconfig.dev.json
+D:\Learning\ASP NET\DatingApp\DatingApp\bin\Debug\netcoreapp2.1\DatingApp.dll
+D:\Learning\ASP NET\DatingApp\DatingApp\bin\Debug\netcoreapp2.1\DatingApp.pdb
+D:\Learning\ASP NET\DatingApp\DatingApp\obj\Debug\netcoreapp2.1\DatingApp.csprojAssemblyReference.cache
+D:\Learning\ASP NET\DatingApp\DatingApp\obj\Debug\netcoreapp2.1\DatingApp.csproj.CoreCompileInputs.cache
+D:\Learning\ASP NET\DatingApp\DatingApp\obj\Debug\netcoreapp2.1\DatingApp.RazorAssemblyInfo.cache
+D:\Learning\ASP NET\DatingApp\DatingApp\obj\Debug\netcoreapp2.1\DatingApp.RazorAssemblyInfo.cs
+D:\Learning\ASP NET\DatingApp\DatingApp\obj\Debug\netcoreapp2.1\DatingApp.AssemblyInfoInputs.cache
+D:\Learning\ASP NET\DatingApp\DatingApp\obj\Debug\netcoreapp2.1\DatingApp.AssemblyInfo.cs
+D:\Learning\ASP NET\DatingApp\DatingApp\obj\Debug\netcoreapp2.1\DatingApp.RazorTargetAssemblyInfo.cache
+D:\Learning\ASP NET\DatingApp\DatingApp\obj\Debug\netcoreapp2.1\DatingApp.dll
+D:\Learning\ASP NET\DatingApp\DatingApp\obj\Debug\netcoreapp2.1\DatingApp.pdb
